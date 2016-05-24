@@ -37,6 +37,7 @@
     <modules>
         <module>sdk</module>
         <module>plugins</module>
+        <module>input-kinesis</module>
         <module>serving-core</module>
         <module>driver</module>
         <module>web</module>
